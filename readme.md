@@ -1,0 +1,1 @@
+This is a tribute page for Notorious B.I.G, which i have created as the first project on my free code camp journey.
