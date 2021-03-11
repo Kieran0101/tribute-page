@@ -21,8 +21,12 @@ p {
     padding: 20px;
 }
 img {
+    display: block;
     max-width: 100%;
     height: auto;
+}
+figcaption {
+    background: white;
 }
 #tribute-link {
    color: black;
